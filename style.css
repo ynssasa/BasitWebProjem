@@ -187,3 +187,36 @@ footer{
     text-align: center;
     box-shadow: 0 2px 8px 2px rgb(20, 23, 28,.15);
 }
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rgb(20, 23, 28,.15);
+    transition: opacity 0.8s;
+}
+
+#hakkımızdaRSM{
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    float: left;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+
+#hakkımızdaRSM:hover{
+    opacity: 0.6;
+}
+
+.hakYazi{
+    margin-right: 15px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-indent: 40px;
+    color: #494949;
+}
